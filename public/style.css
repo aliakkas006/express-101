@@ -1,0 +1,9 @@
+body nav {
+  margin-left: 200px;
+}
+
+.container {
+  margin: 0  200px;
+  border: 1px solid blueviolet;
+  padding: 10px;
+}
